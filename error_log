@@ -1,0 +1,158 @@
+[03-Jul-2020 12:10:47 UTC] PHP Warning:  Illegal string offset 'location:index.php?fName_error= First name should be less then 6 character.' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:11:17 UTC] PHP Warning:  Illegal string offset 'location:index.php?fName_error= First name should be less then 6 character.' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:13:37 UTC] PHP Warning:  Illegal string offset 'location:index.php?fName_error= First name should be less then 6 character.' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:16:49 UTC] PHP Warning:  Illegal string offset 'location:index.php?fName_error= First name should be less then 6 character.' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:17:16 UTC] PHP Warning:  Illegal string offset 'location:index.php?fName_error= First name should be less then 6 character.' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:24:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lifeofst/public_html/welcome.php on line 12
+[03-Jul-2020 12:26:12 UTC] PHP Warning:  Illegal string offset 'location:https://www.google.com/' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:26:23 UTC] PHP Warning:  Illegal string offset 'location:https://www.google.com/' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:26:51 UTC] PHP Warning:  Illegal string offset 'location:profile.php' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:27:34 UTC] PHP Warning:  Illegal string offset 'location: profile.php' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:29:07 UTC] PHP Warning:  Illegal string offset 'location: profile.php' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:29:12 UTC] PHP Warning:  Illegal string offset 'location: profile.php' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:29:24 UTC] PHP Warning:  Illegal string offset 'location: profile.php' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:30:09 UTC] PHP Warning:  Illegal string offset 'location: profile.php' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:30:44 UTC] PHP Warning:  Illegal string offset 'location: profile.php' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:45:58 UTC] PHP Warning:  Illegal string offset 'location: profile.php' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:46:17 UTC] PHP Warning:  Illegal string offset 'location: profile.php' in /home/lifeofst/public_html/welcome.php on line 10
+[03-Jul-2020 12:47:41 UTC] PHP Warning:  Illegal string offset 'location: profile.php' in /home/lifeofst/public_html/welcome.php on line 11
+[03-Jul-2020 12:49:30 UTC] PHP Warning:  Illegal string offset 'Location: profile.php' in /home/lifeofst/public_html/welcome.php on line 11
+[03-Jul-2020 12:56:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lifeofst/public_html/welcome.php on line 16
+[03-Jul-2020 13:12:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/lifeofst/public_html/index.php on line 22
+[03-Jul-2020 13:45:57 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/lifeofst/public_html/welcome.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/welcome.php on line 2
+[03-Jul-2020 13:53:57 UTC] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE), expecting ',' or ';' in /home/lifeofst/public_html/welcome.php on line 12
+[03-Jul-2020 14:22:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function date_defult_timezone() in /home/lifeofst/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 8
+[03-Jul-2020 14:23:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function date_default_timezone() in /home/lifeofst/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 8
+[04-Jul-2020 05:56:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifeofst/public_html/index.php:1) in /home/lifeofst/public_html/index.php on line 8
+[04-Jul-2020 06:11:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'suaibehaque'@'host.thenhost.com' (using password: YES) in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 06:15:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibehaque'@'host.thenhost.com' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 06:38:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lifeofst_suaibehaque'@'host.thenhost.com' (using password: YES) in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 06:38:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 19
+[04-Jul-2020 06:42:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function msqli_error() in /home/lifeofst/public_html/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 28
+[04-Jul-2020 06:43:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function msqli_error() in /home/lifeofst/public_html/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 28
+[04-Jul-2020 06:44:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 22
+[04-Jul-2020 06:45:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibehaque'@'host.thenhost.com' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 06:45:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 19
+[04-Jul-2020 06:45:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lifeofst/public_html/index.php on line 22
+[04-Jul-2020 06:45:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 22
+[04-Jul-2020 06:54:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 22
+[04-Jul-2020 06:57:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 22
+[04-Jul-2020 07:00:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 22
+[04-Jul-2020 07:08:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 22
+[04-Jul-2020 07:11:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 21
+[04-Jul-2020 07:13:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 22
+[04-Jul-2020 08:36:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 08:42:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 21
+[04-Jul-2020 08:43:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'suaibehaque'@'localhost' (using password: YES) in /home/lifeofst/public_html/index.php on line 11
+[04-Jul-2020 08:43:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 18
+[04-Jul-2020 08:43:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lifeofst/public_html/index.php on line 21
+[04-Jul-2020 08:44:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 21
+[04-Jul-2020 08:47:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 21
+[04-Jul-2020 08:49:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lifeofst/public_html/index.php on line 21
+[04-Jul-2020 08:49:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/lifeofst/public_html/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 30
+[04-Jul-2020 08:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/lifeofst/public_html/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 30
+[04-Jul-2020 09:04:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibehaque'@'localhost' to database 'my_users' in /home/lifeofst/public_html/index.php on line 11
+[04-Jul-2020 09:04:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 19
+[04-Jul-2020 09:04:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 30
+[04-Jul-2020 09:11:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_list_dbs() in /home/lifeofst/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 17
+[04-Jul-2020 09:12:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_list_dbs() in /home/lifeofst/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 17
+[04-Jul-2020 09:14:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lifeofst/public_html/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:15:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'suaibehaque'@'localhost' (using password: YES) in /home/lifeofst/public_html/index.php on line 11
+[04-Jul-2020 09:15:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 18
+[04-Jul-2020 09:15:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 29
+[04-Jul-2020 09:18:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibehaque'@'localhost' to database 'suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:18:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 19
+[04-Jul-2020 09:18:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 30
+[04-Jul-2020 09:26:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibehaque'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:26:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:26:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:26:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibehaque'@'localhost' to database 'suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:26:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:26:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:26:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'suaibehaque'@'localhost' (using password: YES) in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:26:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:26:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:31:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibehaque'@'localhost' to database 'Suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:31:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:31:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:31:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'Suaibehaque'@'localhost' (using password: YES) in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:31:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:31:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:34:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lifeofst_suaibehaque'@'localhost' (using password: YES) in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:34:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:34:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:35:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:35:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:35:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:37:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:37:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:37:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:40:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:40:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:40:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:41:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:41:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:41:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:42:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'host.thenhost.com' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:42:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:42:47 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:43:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 09:43:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 20
+[04-Jul-2020 09:43:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lifeofst/public_html/index.php on line 31
+[04-Jul-2020 09:45:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 14
+[04-Jul-2020 09:46:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'host.thenhost.com' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 14
+[04-Jul-2020 09:47:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:03:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:18:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:19:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:20:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:22:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:23:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:23:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lifeofst_suaibe'@'localhost' to database 'lifeofst_suaibehaque' in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:35:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mdsuaibe'@'localhost' (using password: YES) in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:42:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mdsuaibe'@'localhost' (using password: YES) in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:45:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mdsuaibe'@'localhost' (using password: YES) in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 10:55:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mdsuaibe'@'localhost' (using password: YES) in /home/lifeofst/public_html/index.php on line 12
+[04-Jul-2020 12:45:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function musqli_query() in /home/lifeofst/public_html/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/lifeofst/public_html/index.php on line 20
+[05-Jul-2020 07:51:11 UTC] PHP Warning:  require_once(Array): failed to open stream: No such file or directory in /home/lifeofst/public_html/editData.php on line 10
+[05-Jul-2020 07:51:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'Array' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/lifeofst/public_html/editData.php on line 10
+[05-Jul-2020 07:53:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/lifeofst/public_html/editData.php on line 38
+[05-Jul-2020 08:11:56 UTC] PHP Warning:  require_once(Array): failed to open stream: No such file or directory in /home/lifeofst/public_html/editData_core.php on line 3
+[05-Jul-2020 08:11:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'Array' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/lifeofst/public_html/editData_core.php on line 3
+[05-Jul-2020 13:56:10 UTC] PHP Parse error:  syntax error, unexpected 'suaibe' (T_STRING) in /home/lifeofst/public_html/search.php on line 65
+[05-Jul-2020 13:56:49 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/lifeofst/public_html/search.php on line 75
+[05-Jul-2020 13:56:52 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/lifeofst/public_html/search.php on line 75
+[05-Jul-2020 14:17:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lifeofst/public_html/index.php on line 110
